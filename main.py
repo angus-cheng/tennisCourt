@@ -12,7 +12,7 @@ def main():
     while driver.current_url == BASE_URL:
         pass
 
-    time.sleep(1)
+    time.sleep(10)
 
     name = driver.find_element_by_name('name')
     name.send_keys('Angus')
