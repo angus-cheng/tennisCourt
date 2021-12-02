@@ -1,9 +1,10 @@
 from selenium import webdriver
-from selenium.webdriver.support.ui import Select
-from datetime import datetime
 import time
 
-BASE_URL = "https://www.tennisvenues.com.au/booking/david-turbayne-tennis-centre#"
+# BASE_URL = "https://www.tennisvenues.com.au/booking/david-turbayne-tennis-centre#"
+BASE_URL = "https://www.tennisvenues.com.au/booking/morningside-tc#"
+# BASE_URL = "http://www.tennisvenues.com.au/booking/wynnum-tennis-centre#"
+
 
 def main():
     driver = webdriver.Firefox()
@@ -17,15 +18,11 @@ def main():
     name = driver.find_element_by_name('name')
     name.send_keys('Angus')
 
-    #bookingTimeRadio = Select(driver.find_element_by_id('endTime'))
-    #bookingTimeRadio.select_by_value('2130')
-
     contactNumber = driver.find_element_by_name('contactNumber')
     contactNumber.send_keys('0403779594')
 
     email = driver.find_element_by_name('email')
     email.send_keys('anguscheng389@gmail.com')
-
 
     confirmEmail = driver.find_element_by_name('confirmEmail')
     confirmEmail.send_keys('anguscheng389@gmail.com')
@@ -40,5 +37,5 @@ def main():
     return
 
 
-if __name__ =="__main__":
+if __name__ == "__main__":
     main()
