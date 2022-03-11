@@ -1,4 +1,7 @@
 from selenium import webdriver
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.common.by import By
 import time
 
 # BASE_URL = "https://www.tennisvenues.com.au/booking/david-turbayne-tennis-centre#"
@@ -7,7 +10,7 @@ BASE_URL = "https://www.tennisvenues.com.au/booking/morningside-tc#"
 
 
 def main():
-    driver = webdriver.Firefox()
+    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
     driver.get(BASE_URL)
 
     while driver.current_url == BASE_URL:
@@ -15,19 +18,19 @@ def main():
 
     time.sleep(10)
 
-    name = driver.find_element_by_name('name')
+    name = driver.find_element(By.NAME, 'name')
     name.send_keys('Angus')
 
-    contactNumber = driver.find_element_by_name('contactNumber')
+    contactNumber = driver.find_element(By.NAME, 'contactNumber')
     contactNumber.send_keys('0403779594')
 
-    email = driver.find_element_by_name('email')
+    email = driver.find_element(By.NAME, 'email')
     email.send_keys('anguscheng389@gmail.com')
 
-    confirmEmail = driver.find_element_by_name('confirmEmail')
+    confirmEmail = driver.find_element(By.NAME, 'confirmEmail')
     confirmEmail.send_keys('anguscheng389@gmail.com')
 
-    nextButton = driver.find_element_by_id('submit_button')
+    nextButton = driver.find_element(By.ID, 'submit_button')
     nextButton.click()
 
     while True:
