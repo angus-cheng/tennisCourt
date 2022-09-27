@@ -1,0 +1,170 @@
+1657395417056	geckodriver	INFO	Listening on 127.0.0.1:61318
+1657395420105	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61319" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TECHFA~1\\AppData\\Local\\Temp\\rust_mozprofilevU9j3D"
+1657395439326	geckodriver	INFO	Listening on 127.0.0.1:61388
+1657395442391	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61389" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TECHFA~1\\AppData\\Local\\Temp\\rust_mozprofileVmWp78"
+1657395442672	Marionette	INFO	Marionette enabled
+1657395442675	Marionette	INFO	Listening on port 61400
+WebDriver BiDi listening on ws://localhost:61389
+Read port: 61400
+1657395442758	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TECHFA~1\\AppData\\Local\\Temp\\rust_mozprofileVmWp78\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61389/devtools/browser/93f4b9b8-effc-4522-9dc4-88c769753a5c
+1657395459685	Marionette	INFO	Stopped listening on port 61400
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657396615473	geckodriver	INFO	Listening on 127.0.0.1:62182
+1657396618526	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62183" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TECHFA~1\\AppData\\Local\\Temp\\rust_mozprofileEQSbsO"
+1657396618837	Marionette	INFO	Marionette enabled
+1657396618840	Marionette	INFO	Listening on port 62193
+WebDriver BiDi listening on ws://localhost:62183
+Read port: 62193
+1657396618915	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TECHFA~1\\AppData\\Local\\Temp\\rust_mozprofileEQSbsO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62183/devtools/browser/5217f0b2-2515-4190-93a6-bbe5f9030643
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://app.tennisvenues.com.au"
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+1657399060838	Marionette	INFO	Stopped listening on port 62193
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657630713873	geckodriver	INFO	Listening on 127.0.0.1:60134
+1657630716930	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60135" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TECHFA~1\\AppData\\Local\\Temp\\rust_mozprofileyAajtg"
+1657630717552	Marionette	INFO	Marionette enabled
+1657630717555	Marionette	INFO	Listening on port 60144
+WebDriver BiDi listening on ws://localhost:60135
+Read port: 60144
+1657630717644	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TECHFA~1\\AppData\\Local\\Temp\\rust_mozprofileyAajtg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60135/devtools/browser/25d76337-a737-4871-bfad-b56f74d06183
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://app.tennisvenues.com.au"
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+1657630808978	Marionette	INFO	Stopped listening on port 60144
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657703208123	geckodriver	INFO	Listening on 127.0.0.1:49933
+1657703211192	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49934" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TECHFA~1\\AppData\\Local\\Temp\\rust_mozprofileDEVafI"
+1657703211535	Marionette	INFO	Marionette enabled
+1657703211538	Marionette	INFO	Listening on port 49945
+WebDriver BiDi listening on ws://localhost:49934
+Read port: 49945
+1657703211750	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TECHFA~1\\AppData\\Local\\Temp\\rust_mozprofileDEVafI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49934/devtools/browser/9b8b3ce0-bbfe-4a64-ae52-0c8c1fb62111
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://app.tennisvenues.com.au"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://app.tennisvenues.com.au"
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/secure/booking/pay?v=morningside-tc, line 609: SecurityError: Permission denied to access property "onbeforeunload" on cross-origin object
+JavaScript error: resource://gre/modules/Prompter.jsm, line 1057: AbortError: Actor 'Prompt' destroyed before query 'Prompt:Open' was resolved
+1657787052139	Marionette	INFO	Stopped listening on port 49945
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657787067009	geckodriver	INFO	Listening on 127.0.0.1:54421
+1657787070045	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54422" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TECHFA~1\\AppData\\Local\\Temp\\rust_mozprofileCOQdNz"
+1657787071334	Marionette	INFO	Marionette enabled
+1657787071337	Marionette	INFO	Listening on port 54439
+WebDriver BiDi listening on ws://localhost:54422
+Read port: 54439
+Read port: 54439
+1657787073320	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TECHFA~1\\AppData\\Local\\Temp\\rust_mozprofileCOQdNz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54422/devtools/browser/7c06ef2e-eb60-4829-95ce-c47f66662498
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://app.tennisvenues.com.au"
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+1657787829441	Marionette	INFO	Stopped listening on port 54439
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 15568, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1657788249777	geckodriver	INFO	Listening on 127.0.0.1:63450
+1657788252825	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63451" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TECHFA~1\\AppData\\Local\\Temp\\rust_mozprofileoxzIy7"
+1657788253406	Marionette	INFO	Marionette enabled
+1657788253409	Marionette	INFO	Listening on port 63461
+WebDriver BiDi listening on ws://localhost:63451
+Read port: 63461
+1657788253651	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TECHFA~1\\AppData\\Local\\Temp\\rust_mozprofileoxzIy7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63451/devtools/browser/6ab571ff-9104-4e00-a901-ec3d3763cfcc
+1657788294678	Marionette	INFO	Stopped listening on port 63461
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657788301157	geckodriver	INFO	Listening on 127.0.0.1:63551
+1657788304199	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63552" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TECHFA~1\\AppData\\Local\\Temp\\rust_mozprofilec4IUGt"
+1657788304443	Marionette	INFO	Marionette enabled
+1657788304445	Marionette	INFO	Listening on port 63562
+WebDriver BiDi listening on ws://localhost:63552
+Read port: 63562
+1657788304615	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TECHFA~1\\AppData\\Local\\Temp\\rust_mozprofilec4IUGt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63552/devtools/browser/9794e000-7fd5-4b40-8f73-1dc1da54fec6
+1657788336245	Marionette	INFO	Stopped listening on port 63562
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657788708947	geckodriver	INFO	Listening on 127.0.0.1:63815
+1657788711954	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63816" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TECHFA~1\\AppData\\Local\\Temp\\rust_mozprofileT3oHL4"
+1657788712193	Marionette	INFO	Marionette enabled
+1657788712196	Marionette	INFO	Listening on port 63827
+WebDriver BiDi listening on ws://localhost:63816
+Read port: 63827
+1657788712355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TECHFA~1\\AppData\\Local\\Temp\\rust_mozprofileT3oHL4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63816/devtools/browser/e62c848f-3062-43ac-8b85-acb3a92d259d
+1657790638652	Marionette	INFO	Stopped listening on port 63827
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657790644828	geckodriver	INFO	Listening on 127.0.0.1:64132
+1657790647858	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64133" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TECHFA~1\\AppData\\Local\\Temp\\rust_mozprofileZfQPL2"
+1657790648329	Marionette	INFO	Marionette enabled
+1657790648332	Marionette	INFO	Listening on port 64142
+WebDriver BiDi listening on ws://localhost:64133
+Read port: 64142
+1657790648494	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TECHFA~1\\AppData\\Local\\Temp\\rust_mozprofileZfQPL2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64133/devtools/browser/79014e32-7a13-4a59-89c5-c068d3874637
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://app.tennisvenues.com.au"
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: https://app.tennisvenues.com.au/js/jquery.timers.js, line 132: TypeError: jQuery.browser is undefined
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1631: Error: permitUnload is already running for this tab.
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"SessionStore: flushing all windows","state":{"total":1,"current":0},"filename":"resource:///modules/sessionstore/SessionStore.jsm","lineNumber":2111,"stack":["resource:///modules/sessionstore/SessionStore.jsm:ssi_onQuitApplicationGranted:2111","resource:///modules/sessionstore/SessionStore.jsm:ssi_observe:1023"]}] Barrier: quit-application-granted
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2123: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1657798105504	Marionette	INFO	Stopped listening on port 64142
